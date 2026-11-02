@@ -33,9 +33,9 @@ Part-time computational engineer @ 天玑算（材料计算项目交付 · 远�
 
 | 仓库 | 内容 | 状态 |
 |---|---|---|
-| [**alignn-active-learning**](https://github.com/Redpanda0420/alignn-active-learning) | ALIGNN 主动学习闭环：数据集构建 → 多模型集成训练 → 不确定性采样 → 下一批 VASP 输入 | 🚧 整理中 |
-| [**dft-ops-kit**](https://github.com/Redpanda0420/dft-ops-kit) | VASP / CP2K 计算运维工具箱：批量输入生成、U 值扫描汇总、逐原子应力分析 | 🚧 整理中 |
-| [**neb-toolkit**](https://github.com/Redpanda0420/neb-toolkit) | NEB 工具：端点一致性核验、迁移路径 3D 可视化、势垒曲线绘制 | 🚧 整理中 |
+| [**alignn-active-learning**](https://github.com/Redpanda0420/alignn-active-learning) | ALIGNN 主动学习闭环：数据集构建 → 多模型集成训练 → 不确定性采样 → 下一批 VASP 输入 | ✅ 已开源 |
+| [**dft-ops-kit**](https://github.com/Redpanda0420/dft-ops-kit) | VASP / CP2K 计算运维工具箱：批量输入生成、U 值扫描汇总、逐原子应力分析 | ✅ 已开源 |
+| [**neb-toolkit**](https://github.com/Redpanda0420/neb-toolkit) | NEB 工具：端点一致性核验、迁移路径 3D 可视化、势垒曲线绘制 | ✅ 已开源 |
 
 ---
 
