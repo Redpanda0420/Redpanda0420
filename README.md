@@ -2,8 +2,7 @@
 
 **Materials Computation · Machine-Learning Potentials · Agent-driven Scientific Automation**
 
-博士在读 @ 电子科技大学（仪器科学与技术）· 材料计算与电池材料方向
-Part-time computational engineer @ 天玑算（材料计算项目交付 · 远程）
+博士在读 @ 电子科技大学（仪器科学与技术）· 材料计算 / 电池材料方向　|　兼职计算工程师 @ 天玑算（远程交付）
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1604--7911-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1604-7911)
 [![Email](https://img.shields.io/badge/Email-2729477620%40qq.com-blue?logo=mail.ru&logoColor=white)](mailto:2729477620@qq.com)
